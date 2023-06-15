@@ -32,4 +32,16 @@ iframe{
 nav img{
     border-radius: 50%;
     width: 50px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+nav img:hover{
+    border: 2px solid white;
+    transform: translate(-2px, -2px);
+    transition: transform 0.3s;
+}
+
+#image{
+    text-align: right;
 }
