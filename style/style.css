@@ -28,3 +28,8 @@ iframe{
     height: 76%;
     width: 86%;
 }
+
+nav img{
+    border-radius: 50%;
+    width: 50px;
+}
